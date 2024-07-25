@@ -61,7 +61,7 @@ body {
     
     section {
         padding: 40px 0;
-        background-color: #ff0000;
+        background-color: #3005f3;
         text-align: center;
     }
     
@@ -118,7 +118,7 @@ body {
     
     form button {
         background-color: #fff7f7;
-        color: #ff0000;
+        color: #31f700;
         border: none;
         padding: 10px 20px;
         font-size: 1.2em;
@@ -141,7 +141,7 @@ body {
 
 header {
     background-color: #ffffff;
-    color: #ff0000;
+    color: #3b05ff;
     padding: 10px 0;
 }
 
@@ -184,7 +184,7 @@ section h2 {
 
 section p {
     font-size: 1.2em;
-    color: #fcfcfc;
+    color: #3bffef;
 }
 
 ul {
@@ -193,8 +193,8 @@ ul {
 }
 
 footer {
-    background-color: #ffffff;
-    color: #ff0000;
+    background-color: #13f143;
+    color: #552e88;
     text-align: center;
     padding: 10px 0;
     position: fixed;
